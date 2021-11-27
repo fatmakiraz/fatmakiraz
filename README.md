@@ -4,6 +4,7 @@
 ![CSS](https://img.shields.io/badge/CSS-2965f1)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e)
 ![Sass](https://img.shields.io/badge/Sass-cf649a)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06b6d4)
 ![LiquidJS](https://img.shields.io/badge/LiquidJS-0e83cd)
 
 - :computer: I've been learning HTML, CSS and JavaScript for a while.
