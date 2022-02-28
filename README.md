@@ -6,6 +6,8 @@
 ![Sass](https://img.shields.io/badge/Sass-cf649a)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06b6d4)
 ![LiquidJS](https://img.shields.io/badge/LiquidJS-0e83cd)
+![Pug](https://img.shields.io/badge/Pug-a86454)
+
 
 - :computer: I'm a front-end developer who loves to learn and create something new constantly. 
 - :zap: There is a huge community and I'm excited about being a little part of this :rocket:
