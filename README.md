@@ -5,8 +5,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e)
 ![Vue.js](https://img.shields.io/badge/Vue.js-41b883)
 ![NuxtJS](https://img.shields.io/badge/NuxtJS-00dc81)
-![Sass](https://img.shields.io/badge/Sass-cf649a)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06b6d4)
+![Sass](https://img.shields.io/badge/Sass-cf649a)
 ![LiquidJS](https://img.shields.io/badge/LiquidJS-0e83cd)
 ![Pug](https://img.shields.io/badge/Pug-a86454)
 
